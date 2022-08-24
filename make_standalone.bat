@@ -1,0 +1,1 @@
+pyinstaller --onefile SFC2ICE.py
